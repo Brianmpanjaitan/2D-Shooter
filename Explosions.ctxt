@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=Explosions(java.lang.String)
+comment1.params=t
+comment1.target=void\ setlivesfor(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Explosions\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ removegif()
+numComments=4
